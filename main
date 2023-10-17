@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>Disaster Help</title>
+  </head>
+
+  <body>
+    <h1>Kullanici Turunu Giriniz - Dev</h1>
+    <p>Bu site doğal afet sonucu yardımlaşma amacıyla kurulmuştur</p>
+    
+    <table>
+      <tr>
+        <td>Yardım İhtiyacı Olan</td><td>$18</td>
+      </tr>
+      <tr>
+        <td>Yardım Eden</td><td>$15</td>
+      </tr>
+      <tr>
+        <td>Lojistik</td><td>$12</td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>
